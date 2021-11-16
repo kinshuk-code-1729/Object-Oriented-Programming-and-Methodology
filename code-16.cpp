@@ -12,7 +12,7 @@ int main(){
     }
     catch(int k)
     {
-        cout<<"Second Opernd cannot be Zero";
+        cout<<"Second Operand cannot be Zero";
     }
     return 0;
 }
