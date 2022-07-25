@@ -1,6 +1,4 @@
-//write a progrom to convert binary to decimal
-//Downloaded From www.turboc8.com coded by Yogendra Singh.
-
+// Progrom to convert a binary number to its equivalent decimal number.
 #include<iostream.h>
 #include<math.h>
 using namespace std;
