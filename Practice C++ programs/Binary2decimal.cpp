@@ -17,6 +17,6 @@ int main(){
       sum=sum+x[j]*pow(2,k);
       k++;
   }
-  cout<<"Equvalent Decimal Number : "<<sum;
+  cout<<"Equivalent Decimal Number : "<<sum;
   return 0;
   }
