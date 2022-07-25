@@ -1,5 +1,5 @@
 // Progrom to convert a binary number to its equivalent decimal number.
-#include<iostream.h>
+#include<iostream>
 #include<math.h>
 using namespace std;
 int main(){
