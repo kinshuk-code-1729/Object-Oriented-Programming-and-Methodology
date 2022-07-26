@@ -1,4 +1,4 @@
-//Progrom to Check whether a number is a Strong Number.
+//Program to Check whether a number is a Strong Number.
 #include<iostream>
 using namespace std;
 int main(){
