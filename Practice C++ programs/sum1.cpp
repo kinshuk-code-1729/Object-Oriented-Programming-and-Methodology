@@ -1,4 +1,4 @@
-// Find Sum of two no.s
+// Find Sum of two user-defined numbers.
 #include <iostream>
 using namespace std;
 int main()
