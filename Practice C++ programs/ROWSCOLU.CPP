@@ -30,7 +30,7 @@ int main(){
     for (i=1;i<=m;i++){
       c=c+a[i][j];
     }
-    cout<<"\nsum of "<<j<<"  columb = "<<c;
+    cout<<"\nsum of "<<j<<"  column = "<<c;
   }
   return 0;
 }
