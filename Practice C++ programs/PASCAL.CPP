@@ -1,4 +1,4 @@
-// Progrom to print Pascal's Triangle.
+// Program to print Pascal's Triangle.
 #include<iostream>
 using namespace std;
 int main(){
