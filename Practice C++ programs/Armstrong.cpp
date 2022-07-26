@@ -1,4 +1,4 @@
-//Progrom to Check for 4 digit Armstrong Number.
+//Program to Check for 4 digit Armstrong Number.
 #include <iostream>
 using namespace std;
 #include<math.h>
