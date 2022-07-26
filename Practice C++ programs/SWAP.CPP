@@ -1,4 +1,4 @@
-// Progrom to swap two numbers without using the third variable.
+// Program to swap two numbers without using the third variable.
 #include<iostream>
 using namespace std;
 
