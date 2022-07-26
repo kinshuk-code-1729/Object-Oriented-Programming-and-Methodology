@@ -1,8 +1,8 @@
 // Palindrome program
 #include <iostream>
 using namespace std;
-int main()
-{ char str[20],c;
+int main(){
+  char str[20],c;
   int l,i,j,k=1;
   cout<<"Enter any string : ";
   cin.getline(str,20);
