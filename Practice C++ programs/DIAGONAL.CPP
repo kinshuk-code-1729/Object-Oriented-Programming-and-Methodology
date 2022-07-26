@@ -1,4 +1,4 @@
-// Progrom to print sum of elements of diagonal of a matrix.
+// Program to print sum of elements of diagonal of a matrix.
 #include<iostream>
 using namespace std;
 int main(){
