@@ -1,4 +1,4 @@
-// Progrom to find multiplication of two matrices.
+// Program to find multiplication of two matrices.
 #include<iostream>
 using namespace std;
 int main(){
