@@ -1,4 +1,4 @@
-// Progrom to convert a binary number to its equivalent decimal number.
+// Program to convert a binary number to its equivalent decimal number.
 #include<iostream>
 #include<math.h>
 using namespace std;
