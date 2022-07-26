@@ -1,8 +1,8 @@
 // Temperature Converter
 #include <iostream>
 using namespace std;
-int main()
-{   int c;
+int main(){
+    int c;
     float temp,conv;
     cout<<"To Convert The Temperature Choose Your Option Below"<<"\n";
     cout<<"1. Celsius to Fahrenheit"<<"\n";
