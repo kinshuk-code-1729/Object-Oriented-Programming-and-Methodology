@@ -1,8 +1,8 @@
 // ARITHMETIC OPERATIONS(+,-,*,/)
 #include <iostream>
 using namespace std;
-int main()
-{ char op;
+int main(){
+  char op;
   float x,y,z;
   cout<<"Enter Two Numbers : ";
   cin>>x>>y;
